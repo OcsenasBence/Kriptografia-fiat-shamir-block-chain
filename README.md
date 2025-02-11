@@ -1,0 +1,1 @@
+Egyetemi tanulmányaim alatt a Kriptográfia nevezetü tárgy segítségével betekintést nyerhettem, hogy, hogyan is tudok kulcsot generáltatni és ellenőriztetni különböző módszerek segítségével. Az általam választott módszer az a fiat-shamir névre hallgat.
